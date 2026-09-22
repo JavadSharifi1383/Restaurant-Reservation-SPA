@@ -1,0 +1,19 @@
+.background-container {
+    background: url('../../photos/background.avif') no-repeat center center;
+    background-size: cover;
+    height: 92vh;
+}
+
+.logo-container {
+    margin-right: 20%;
+}
+
+.logo-image {
+    width: 400px;
+    height: auto;
+    opacity: 80%;
+}
+
+.welcome-text {
+    font-size: 4rem;
+}

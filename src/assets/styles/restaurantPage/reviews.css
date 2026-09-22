@@ -1,0 +1,25 @@
+.review-container {
+    margin-bottom: 100px;
+}
+
+.rate {
+    color: red;
+}
+
+.review-stars {
+    right: 250px;
+    top: 10px;
+    color: red;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #cca37752;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.25rem;
+    color: black;
+}

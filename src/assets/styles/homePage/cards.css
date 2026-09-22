@@ -1,0 +1,10 @@
+#restaurant-photo {
+    height: 198px;
+    object-fit: cover;
+}
+
+#card:hover {
+    cursor: pointer;
+    scale: 1.05;
+    transition: all 0.4s;
+}

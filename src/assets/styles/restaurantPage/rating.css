@@ -1,0 +1,12 @@
+.rating-box {
+    background-color: rgba(246, 243, 198, 0.304);
+}
+
+.items {
+    gap: 90px;
+}
+
+.pp {
+    position: relative;
+    top: 3px;
+}

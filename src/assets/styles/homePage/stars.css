@@ -1,0 +1,19 @@
+.home-stars#stars-container {
+    position: absolute;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px; 
+    top: 20px;
+    background-color: white;
+}
+
+.home-stars .star-icon {
+    color: red;
+    font-size: 1rem;
+}
+
+.rating-stars .star-icon {
+    margin: 0;
+    padding: 0;
+    color: red;
+    background-color: transparent;    
+}
